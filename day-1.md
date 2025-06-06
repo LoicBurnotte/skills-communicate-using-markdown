@@ -12,6 +12,12 @@
 1. Step 2
 1. Step 3
 
+***Test***
+
+___Test___
+
+__Hello *World*__
+
 - [x] This task is complete
 - [ ] This task is not complete
 
